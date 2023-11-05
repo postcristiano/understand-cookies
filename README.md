@@ -5,7 +5,7 @@
 - Store website guest/user data
 - Types of cookies
 	- Session cookies - while user browsing
-	- Persistent cookies - keep after exit browser
+	- Persistent cookies - keep after user exit browser
 	- 3rd parties cookies - tracking
 
 #### Cookies properties
@@ -15,9 +15,9 @@
 - Path
 - Expires/ Max-Age
 - Size
-- HttpOnly (True or False)
+- HttpOnly (`true` or `false`)
 - Secure (True or False)
-- SameSite - eg. `Strict`  `Lax`
+- SameSite (`Strict` or `Lax`)
 
 > Browsers Private tabs bypass cookie persistence.
 
