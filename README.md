@@ -16,7 +16,7 @@
 - Expires/ Max-Age
 - Size
 - HttpOnly (`true` or `false`)
-- Secure (True or False)
+- Secure (`true` or `false`)
 - SameSite (`Strict` or `Lax`)
 
 > Browsers Private tabs bypass cookie persistence.
